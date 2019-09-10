@@ -16,6 +16,26 @@ serve()
 
 then navigate to `localhost:8000`.
 
+## Fun banter
+
+Comparing apples and oranges but still fun (results from Page Speed Insights obtained on Sept 10, 2019, reporting TTI = _time to interactive_).
+
+**Mobile**
+
+Page                | TTI    | TTI (jd)   | score | score (jd)
+:------------------ | :----- | :--------- | :---- | :---------
+gsoc-ode            | 6.8s   | **2.7s**   | 76    | **97**
+shelling-out        | 3.9s   | **1.1s**   | 93    | **100**
+distributed-num     | 5.8s   | **1.9s**   | 83    | **99**
+
+**Desktop**
+
+Page                | TTI    | TTI (jd)   | score | score (jd)
+:------------------ | :----- | :--------- | :---- | :---------
+gsoc-ode            | 1.8s   | **0.7s**   | 97    | 100
+shelling-out        | 1.0s   | **0.4s**   | 100   | 100
+distributed-num     | 1.1s   | **0.7s**   | 100   | 99
+
 ## Notes
 
 ### Could be automated
