@@ -18,7 +18,7 @@ then navigate to `localhost:8000`.
 
 ## Fun banter
 
-Comparing apples and oranges but still fun (results from Page Speed Insights obtained on Sept 10, 2019, reporting TTI = _time to interactive_).
+Comparing apples and oranges but still fun (results from Page Speed Insights obtained on Sept 10, 2019, reporting TTI = _time to interactive_; "(jd)" indicates the results from the JuDoc-generated pages).
 
 **Mobile**
 
