@@ -34,7 +34,7 @@ We can state the algorithm as
 2. For $i = 1,\dots,n$, evaluate $
 f_i(x) $ and update corresponding model $ m_i $.
 3. Let the next
-candidate $ x $ be the minimizer of $ \sum_{i=1}&#94;n m_i(x) $.
+candidate $ x $ be the minimizer of $ \sum_{i=1}^n m_i(x) $.
 4. If not converged, goto step 2.
 
 If it is costly to evaluate $ f_i(x) $, then the algorithm is naturally
